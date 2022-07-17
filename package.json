@@ -1,0 +1,17 @@
+{
+  "name": "write_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "sh ./scripts/test.sh",
+    "new": "node ./scripts/new_file.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
