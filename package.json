@@ -8,8 +8,8 @@
     "new": "node ./scripts/new_file.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "tanghao",
+  "license": "MIT",
   "dependencies": {
     "@types/jest": "^28.1.6",
     "jest": "^28.1.3"
